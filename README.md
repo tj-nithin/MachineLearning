@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @medievalwitch
-- 👀 I’m researching in AI for Power Optimization
+- 👋 Hi, I’m @aishwamurali
+- 👀 I’m studying Artificial Intelligence
 - 🌱 I’m currently learning Python
 
 
